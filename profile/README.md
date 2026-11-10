@@ -1,14 +1,15 @@
 # Quantile Labs
 
-**On-device AI for environmental sensing in low-resource settings.**
-Intelligence that lives where the data begins.
+**A research lab that makes AI cheaper to run.**
 
-We build machine intelligence that runs inside the sensor. Environmental data gets read where it's measured, and energy goes only to the readings that matter.
+We turn AI research into tools people can run today, on ordinary laptops and small devices.
 
-### Sensor Intelligence
-Fault detection, trend estimation and decisions about when to send data, all running on the sensor itself. That means longer battery life, fewer site visits and earlier warnings.
+### WazoCore · Available now
+An open language model for Yoruba, Hausa and Igbo that writes these languages 1.6 to 1.7 times faster on the same laptop. Drop-in GGUF for llama.cpp and LM Studio.
+[Code](https://github.com/Quantile-Labs/wazocore) · [Model](https://huggingface.co/quantile-labs/WazoCore-8B-v6-long)
 
-### Research
-Compact fixed-point methods that run on microcontrollers. We test them on events caught, warning lead time and false alarms per station-year, using stations we kept out of tuning.
+### Sensor Intelligence · Early access
+Edge AI that runs on the sensor itself, for environmental monitoring in places with small batteries and weak signal. Longer battery life, fewer site visits and cleaner data.
+[Request early access](https://quantilelabs.com/product/)
 
-[quantilelabs.com](https://quantilelabs.com/)
+[quantilelabs.com](https://quantilelabs.com/) · [Hugging Face](https://huggingface.co/quantile-labs)
