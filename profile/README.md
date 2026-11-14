@@ -1,15 +1,20 @@
+<p align="center">
+  <a href="https://quantilelabs.com"><img src="assets/quantile-labs-header.gif" alt="African languages shouldn't pay a token tax. So we cut it. Scissors cut an Igbo sentence from 25 tokens to 13." width="100%"></a>
+</p>
+
 # Quantile Labs
 
-**A research lab that makes AI cheaper to run.**
+**Africa's open AI models, made smarter, faster and lighter.**
 
-We turn AI research into tools people can run today, on ordinary laptops and small devices.
+AI reads text in small pieces called tokens. Words in African languages get split into more of them than English words, so the same answer is slower and costs more to run. We call this the token tax, and we cut it.
 
-### WazoCore · Available now
-An open language model for Yoruba, Hausa and Igbo that writes these languages 1.6 to 1.7 times faster on the same laptop. Drop-in GGUF for llama.cpp and LM Studio.
-[Code](https://github.com/Quantile-Labs/wazocore) · [Model](https://huggingface.co/quantile-labs/WazoCore-8B-v6-long)
+We start from open models built in Africa and teach them to read their own languages in bigger pieces. We choose our quality tests before training, publish the results, and release open weights that run offline on everyday hardware. One country after another, one language after another.
 
-### Sensor Intelligence · Early access
-Edge AI that runs on the sensor itself, for environmental monitoring in places with small batteries and weak signal. Longer battery life, fewer site visits and cleaner data.
-[Request early access](https://quantilelabs.com/product/)
+### Models
 
-[quantilelabs.com](https://quantilelabs.com/) · [Hugging Face](https://huggingface.co/quantile-labs)
+| Model | Built on | Languages | Links |
+|---|---|---|---|
+| **WazoCore** | N-ATLaS, Nigeria | Yoruba, Hausa, Igbo | [Model](https://huggingface.co/quantile-labs/WazoCore-8B) · [Code](https://github.com/Quantile-Labs/wazocore) · [Page](https://quantilelabs.com/wazocore/) |
+| Next | | | One country after another |
+
+[quantilelabs.com](https://quantilelabs.com) · [Our bet](https://quantilelabs.com/bold-bet/) · [All models](https://quantilelabs.com/models/) · [Hugging Face](https://huggingface.co/quantile-labs)
