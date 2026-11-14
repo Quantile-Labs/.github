@@ -10,6 +10,8 @@ AI reads text in small pieces called tokens. Words in African languages get spli
 
 We start from open models built in Africa and teach them to read their own languages in bigger pieces. We choose our quality tests before training, publish the results, and release open weights that run offline on everyday hardware. One country after another, one language after another.
 
+Founded by [Kayode Adeniyi](https://www.linkedin.com/in/kadeniyi/), AI founder and PhD engineering researcher at Imperial College London.
+
 ### Models
 
 | Model | Built on | Languages | Links |
